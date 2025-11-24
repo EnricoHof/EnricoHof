@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Homelab Environment<br>🌱 I’m currently learning Docker, Docker Swarm, Linux, IaS<br>💬 Ask me about anything
+🔭 I’m currently working on a Homelab Environment<br>🌱 I’m currently learning Docker, Docker Swarm, Linux, IaC<br>💬 Ask me about anything
 
 
 # 💻 Tech Stack:
